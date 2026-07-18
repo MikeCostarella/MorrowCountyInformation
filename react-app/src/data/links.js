@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Morrow County Ohio", category: "Government", subcategory: "County", url: "https://www.morrowcountyohio.gov/", description: "Official Morrow County government website with departments and services." },
